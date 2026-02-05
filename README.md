@@ -18,7 +18,7 @@ Full Stack Engineer with 9+ years of professional experience building scalable s
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,17 +54,17 @@ Full Stack Engineer with 9+ years of professional experience building scalable s
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### **Full Stack Engineer** @ 3dB Labs
+### **Senior Full Stack Engineer** @ 3dB Labs
 *May 2025 - Present | Cincinnati, OH*
 - Leading modernization and expansion of web-based DSP software solutions
 - Designing and coding high-performance, extensible API endpoints for IQ and spectral data streams
 - Developing responsive, data-focused frontend displays in modern frameworks
 - Collaborating on RF signal processing and visualization tools
 
-### **Software Engineer II** @ S&P Global
-*Sep 2022 - May 2025 | Remote*
+### **Full Stack Engineer** @ S&P Global
+*Sep 2022 - May 2025 | Remote / New York City, NY*
 - Architected multiprocessed asynchronous backend systems using Kafka, Kubernetes, and AWS (EC2, S3)
 - Managed large-scale databases (~3TB) with optimized query performance
 - Developed full-stack features with React and Python
