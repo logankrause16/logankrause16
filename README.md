@@ -1,5 +1,5 @@
 # Logan Krause
-### Full Stack Engineer | 3dB Labs
+### Senior Full Stack Engineer | 3dB Labs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logankrause2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:logankrause16@gmail.com)
