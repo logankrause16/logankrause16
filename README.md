@@ -3,7 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logankrause2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:logankrause16@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/logankrause16)
 
 ---
 
@@ -99,5 +98,3 @@ Full Stack Engineer with 9+ years of professional experience building scalable s
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logankrause2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:logankrause16@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=logankrause16&color=blue&style=for-the-badge)
